@@ -1,1 +1,1 @@
-A simple landing page - first designed in figma and then coded in React. Hope you like it.
+ Simple landing page and the code in React 
